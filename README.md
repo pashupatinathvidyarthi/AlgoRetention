@@ -298,7 +298,7 @@ GOOGLE_CLIENT_ID=
 
 ## Built By
 
-**Ranjit Kumar Singh**
+**Pashupati Nath Vidyarthi**
 <br>
 Electronics & Communication Engineering
 <br>
