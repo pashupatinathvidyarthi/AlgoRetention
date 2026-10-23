@@ -258,13 +258,6 @@ POST   /api/revisions/:id       # Submit a revision outcome
 
 <br/>
 
-## Run It Locally
-
-```bash
-git clone https://github.com/ranjit-ux/AlgoRetention.git
-cd AlgoRetention
-```
-
 **Frontend**
 ```bash
 cd Frontend
