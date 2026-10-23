@@ -2,7 +2,7 @@
 
 <img src="Frontend/src/assets/AlgoRetention logo wo bg.png" width="140" alt="AlgoRetention Logo"/>
 
-# AlgoRetentio
+# AlgoRetention
 
 ### Solve Once. Remember Forever.
 
