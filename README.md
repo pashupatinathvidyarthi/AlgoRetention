@@ -304,7 +304,7 @@ Electronics & Communication Engineering
 <br>
 National Institute of Technology Bhopal
 
-[GitHub](https://github.com/ranjit-ux) · [LinkedIn](https://www.linkedin.com/in/ranjit-kumar-singh/) · [Website](https://ranjitkumarsingh.in/)
+[GitHub](https://github.com/pashupatinathvidyarthi) · [LinkedIn](https://www.linkedin.com/in/pashupati-nath-vidyarthi-444415290/) 
 
 <br/>
 
